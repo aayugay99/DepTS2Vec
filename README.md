@@ -35,6 +35,8 @@ We release these losses to facilitate integration with existing SSL pipelines su
 
 The work was supported by the grant for research centers in the field of AI provided by the Ministry of Economic Development of the Russian Federation in accordance with the agreement 000000C313925P4F0002 and the agreement with Skoltech №139-10-2025-033.
 
+We also acknowledge the original [TS2Vec repository](https://github.com/zhihanyue/ts2vec) for providing the foundational model on which DepTS2Vec is based.
+
 ---
 
 ## Citation
