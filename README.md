@@ -60,7 +60,7 @@ If you find this repository useful, please cite our works:
   year={2025}
 }
 
-@article{marusov2025drought,
+@article{marusov2024drought,
   title={Long-term drought prediction using deep neural networks based on geospatial weather data},
   author={Marusov, Alexander and Grabar, Vsevolod and Maximov, Yury and Sotiriadi, Nazar and Bulkin, Alexander and Zaytsev, Alexey},
   journal={Environmental Modelling & Software},
