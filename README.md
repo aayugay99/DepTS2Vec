@@ -31,6 +31,17 @@ We release these losses to facilitate integration with existing SSL pipelines su
 
 ---
 
+## Data
+
+### Time Series
+Standard benchmarks for temporal tasks:  
+- [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018)  
+- [UEA Time Series Classification Repository](http://www.timeseriesclassification.com/)
+
+### Spatio-Temporal
+For spatio-temporal tasks, datasets can be obtained from another repository:  
+- [Long-Term Drought Prediction](https://github.com/Astralex98/long-term-drought-prediction/tree/main)
+
 ## Acknowledgements
 
 We acknowledge the original [TS2Vec repository](https://github.com/zhihanyue/ts2vec) for providing the foundational model on which DepTS2Vec is based.
@@ -39,7 +50,7 @@ We acknowledge the original [TS2Vec repository](https://github.com/zhihanyue/ts2
 
 ## Citation
 
-If you find this repository useful, please cite our work:
+If you find this repository useful, please cite our works:
 
 ```bibtex
 @article{marusov2025theoretical,
@@ -48,3 +59,15 @@ If you find this repository useful, please cite our work:
   journal={arXiv preprint arXiv:2506.09785},
   year={2025}
 }
+
+@article{marusov2025drought,
+  title={Long-term drought prediction using deep neural networks based on geospatial weather data},
+  author={Marusov, Alexander and Grabar, Vsevolod and Maximov, Yury and Sotiriadi, Nazar and Bulkin, Alexander and Zaytsev, Alexey},
+  journal={Environmental Modelling & Software},
+  volume={179},
+  pages={106127},
+  year={2024},
+  doi={10.1016/j.envsoft.2024.106127},
+  url={https://www.sciencedirect.com/science/article/pii/S1364815224001889}
+}
+```
